@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+span{
+    color: rgb(0, 162, 255);
+    background-color: rgb(58, 47, 4);
+}
+P{
+    font-size: 30px;
+    color: darkcyan;
+}
